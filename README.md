@@ -255,4 +255,4 @@ This solution transforms a manual, error-prone deployment into an automated, rel
 3. Access the application at `http://localhost:8000`
 
 
-### docker run -p 8080:8000 djangodocke:latest 
+### YG for docker , DM me in case you find a problem 
